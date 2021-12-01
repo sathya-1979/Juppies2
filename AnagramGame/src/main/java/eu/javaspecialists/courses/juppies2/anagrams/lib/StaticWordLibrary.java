@@ -83,7 +83,7 @@ public final class StaticWordLibrary extends WordLibrary {
             "ibmtpa",
             "iccrmutsnaec",
             "ocbmnitaoni",
-            "ocpumrest",
+            "ocpumrets",
             "ocsnqeeutnyl",
             "ocsnroitmu",
             "edrcmeneitgn",
